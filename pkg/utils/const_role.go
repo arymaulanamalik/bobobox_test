@@ -1,0 +1,47 @@
+package utils
+
+const (
+	ROLE_USER = 1
+
+	ROLE_USER_LABEL = "user"
+
+	ROLE_FINANCE = 11
+
+	ROLE_FINANCE_LABEL = "finance"
+
+	ROLE_HOST = 12
+
+	ROLE_HOST_LABEL = "host"
+
+	ROLE_CLEANER = 13
+
+	ROLE_CLEANER_LABEL = "house-keeper"
+
+	ROLE_OPERATION = 14
+
+	ROLE_OPERATION_LABEL = "operation"
+
+	ROLE_ADMIN = 20
+
+	ROLE_ADMIN_LABEL = "front-office"
+
+	ROLE_SUPERADMIN = 100
+
+	ROLE_SUPERADMIN_LABEL = "super-admin"
+
+	ROLE_OWNER = 101
+
+	ROLE_OWNER_LABEL = "owner"
+
+	ROLE_MARKETING_MANAGER = 102
+
+	ROLE_MARKETING_MANAGER_LABEL = "marketing-manager"
+
+	ROLE_INVESTOR = 103
+
+	ROLE_INVESTOR_LABEL = "investor"
+)
+
+const (
+	OTA_BY_SYSTEM_NAME = "OTA By System"
+)
